@@ -1,15 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import cv2
 import numpy as np
-
-
-# In[53]:
-
 
 # Pre-Declaration :
 
