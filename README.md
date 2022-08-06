@@ -5,10 +5,10 @@
 
 * Filter Selection :
 
-Press B/b : Blur Mode
-Press C/c : Canny Edge Detector Mode
-Press F/f : Face Detection Mode
-Press P/p : Back to Preview Mode
-Press Esc : To terminate code
++ Press B/b : Blur Mode
++ Press C/c : Canny Edge Detector Mode
++ Press F/f : Face Detection Mode
++ Press P/p : Back to Preview Mode
++ Press Esc : To terminate code
 
 * Note : Upload 'DNN' files into Jupyter Notebook & suggested to run code within Jupyter Notebook as opencv library inbuilt in it.
